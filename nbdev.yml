@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-universe"
+  site-url: "https://simonwoodhead.github.io/nbdev-hello-universe"
+  description: "This is just me working through the nbdev tutorial, I got stuck last time on a version issue, so having another stab."
+  repo-branch: master
+  repo-url: "https://github.com/simonwoodhead/nbdev-hello-universe"
